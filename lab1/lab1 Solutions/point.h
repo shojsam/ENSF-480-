@@ -1,4 +1,10 @@
-// point.h
+/*
+* File Name: point.h
+* Assignment: Lab 1 Exercise D
+* Lab section: B02
+* Completed by: Luke Chayer
+* Development Date: Sept 9, 2025
+*/
 class Point{
 private:
     double x;     // x coordinate of a location on Cartisian Plain

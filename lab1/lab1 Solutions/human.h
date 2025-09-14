@@ -1,4 +1,10 @@
-// human.h
+/*
+* File Name: human.h
+* Assignment: Lab 1 Exercise D
+* Lab section: B02
+* Completed by: Luke Chayer
+* Development Date: Sept 9, 2025
+*/
 #include "point.h"
 #include <iostream>
 #include <cstring>
